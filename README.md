@@ -1,6 +1,6 @@
 # 👉 [强烈建议使用上位替代品 Clash Verge 或 Fclash](https://github.com/clash-download/Clash)
  
-原因：以往主流的 SS 节点已被 GFW 淘汰，而 Clash for windows 并不支持主流的 Vless 等节点，因此 Clash for windows 在当前环境下已经基本不再可用。
+原因：以往主流的 SS 节点已被 GFW 淘汰，而 Clash for windows 并不支持主流的 Vless 等节点，因此 Clash for windows 在当前环境下。可用性极差，可以说基本不可用。
 
 # Clash for Windows 下载与官网导航
 - [Clash for Windows使用教程](https://clash.download/clash-for-windows)
